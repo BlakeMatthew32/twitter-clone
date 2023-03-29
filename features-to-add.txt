@@ -1,0 +1,14 @@
+generate tweet obj function to be used with the tweet and retweet btn's takes a parameter for the tweet text
+
+add a reply input at the bottom of the replies list of all tweet that can then add the reply text to the end 
+of the reply list of the targeted tweet
+
+user should be able to delete a tweet that they have posted
+
+ability to @ people in their tweets giving you a link to there profile
+
+sign in/sign up page
+
+create objects for users that stores there handle profile picture and the list of their tweets
+
+add all users tweets to an array in there user object 
